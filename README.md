@@ -2,6 +2,9 @@
 
 > A console chat application using SignalR
 
+[![Build Status](https://travis-ci.org/ehsan-mohammadi/SignalR-Chat-SRC.svg)](https://travis-ci.org/ehsan-mohammadi/SignalR-Chat-SRC)
+[![Licesne](https://img.shields.io/github/license/ehsan-mohammadi/SignalR-Chat-SRC.svg?branch=master)](https://travis-ci.org/ehsan-mohammadi/SignalR-Chat-SRC)
+
 <img src="https://github.com/ehsan-mohammadi/SignalR-Chat-SRC/blob/master/Images/LogoSRC.png" width="120" height="120" />
 
 SRC is an open source and free application to anonymous chat with other online users. SRC based on SignalR technology. This project consist of server and client which are connected using the WebSocket.
